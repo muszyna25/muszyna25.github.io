@@ -10,6 +10,8 @@ redirect_from:
 
 My research statement is in preperation at the moment.
 
+My PhD research work was concerned with the development of machine learning and deep learning methods for detecting atmospheric phenomena (patterns) in large climate datasets. In particular, I have carried out research on [atmospheric rivers](https://en.wikipedia.org/wiki/Atmospheric_river) and [atmospheric blocks](https://www.metoffice.gov.uk/weather/learn-about/weather/how-weather-works/high-and-low-pressure/blocks) that usually lead to extreme weather events in mid-latitude regions. I have also participated in the [Atmospheric River Tracking Method Intercomparison Project](https://www.cgd.ucar.edu/projects/artmip/) (ARTMIP) where I have developed a pattern recognition method that combines topological data analysis and machine learning (TDA-ML) for identifying atmospheric rivers in global climate model outputs. My thesis is available on [the university archive](https://livrepository.liverpool.ac.uk/3116349/).
+
 My research involves the deveploment and application of machine learning, deep learning, and causal inference methods on vast and various climate datasets, including the output from climate models and reanalysis products.
 
 <img align="center" width="90%" src="/images/causal_inference.jpg">
