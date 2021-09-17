@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Postdoctoral Research Assistant](https://www.physics.ox.ac.uk/our-people/muszynski) in [Climate Processes group](https://www.physics.ox.ac.uk/research/group/climate-processes) within the subdepartment of Atmospheric, Oceanic and Planetary Physics of the Department of Physics at the University of Oxford, UK.
+I am a [Postdoctoral Research Assistant](https://www.physics.ox.ac.uk/our-people/muszynski) in [Climate Processes group](https://www.physics.ox.ac.uk/research/group/climate-processes) within the subdepartment of Atmospheric, Oceanic and Planetary Physics of the Department of Physics at the University of Oxford, UK. I have obtained a PhD in Computer Science from the University of Liverpool, UK.
 
 <!--I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://www.bas.ac.uk/project/ai/) and [the Ice Dynamics and Palaeoclimate (IDP) Team](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at [the British Antarctic Survey (BAS)](https://www.bas.ac.uk/) environmental research institute in Cambridge, UK. My research is supported by [the Alan Turing Institute’s AI for Science programme](https://www.turing.ac.uk/research/asg) at the AI Lab. I am working with [Dr Scott Hosking](https://scotthosking.com/) in the AI Lab and [Dr Hamish Pritchard](https://www.bas.ac.uk/profile/hprit/) in the IDP Team. -->
 
