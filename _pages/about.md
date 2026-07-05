@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I hold a PhD degree in Computer Science, focused on weather pattern recognition and extreme event detection in climate model simulations, in collaboration with a Big Data Centre launched by the US Department of Energy national laboratory – LBNL, and US technology giant, Intel. Before, I joined AIOI R&D Lab-Oxford, I was a postdoctoral researcher in machine learning and causal inference for weather and climate at the University of Edinburgh and Oxford University, and a data scientist in an AI Lab at the British Antarctic Survey in Cambridge, UK.
+I am currently a research scientist at AIOI R&D Lab-Oxford in Oxford, UK and I am also a machine learning scientist with a lot of applied experience.
+
+I hold a PhD degree in Computer Science, focused on pattern recognition and extreme weather event detection in climate modelling, in collaboration with a Big Data Centre launched by the US Department of Energy national laboratory – Lawrence Berkeley National Laboratory in Berkeley, California, and US technology giant, Intel. Before, I joined AIOI R&D Lab-Oxford, I was a postdoctoral researcher in machine learning and causal inference for weather and climate at the University of Edinburgh and University of Oxford, and a data scientist in an AI Lab at the British Antarctic Survey in Cambridge, UK.
 
 Furthermore, I have published (as author and co-author) over 10 publications in scientific journals and conferences, and contributed to NERC–NSF, UKRI/EPSRC, US DOE–Intel funded projects.
 
