@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I hold a PhD degree in Computer Science, focused on weather pattern recognition and extreme event detection in climate model simulations, in collaboration with a Big Data Centre launched by the US Department of Energy national laboratory – LBNL, and US technology giant, Intel. Before, I joined AIOI R&D Lab-Oxford, I was a postdoctoral researcher in machine learning and causal inference for weather and climate at the University of Edinburgh and Oxford University, and a data scientist in an AI Lab at the British Antarctic Survey in Cambridge, UK.
+
+Furthermore, I have published (as author and co-author) over 10 publications in scientific journals and conferences, and contributed to NERC–NSF, UKRI/EPSRC, US DOE–Intel funded projects.
+
 <!--I am a [Postdoctoral Research Assistant](https://www.physics.ox.ac.uk/our-people/muszynski) in Machine Learning for Climate Science in [Climate Processes group](https://www.physics.ox.ac.uk/research/group/climate-processes) within the subdepartment of Atmospheric, Oceanic and Planetary Physics of the Department of Physics at the University of Oxford, UK. I have obtained a PhD in Computer Science from the University of Liverpool, UK. -->
 
 <!--I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://www.bas.ac.uk/project/ai/) and [the Ice Dynamics and Palaeoclimate (IDP) Team](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at [the British Antarctic Survey (BAS)](https://www.bas.ac.uk/) environmental research institute in Cambridge, UK. My research is supported by [the Alan Turing Institute’s AI for Science programme](https://www.turing.ac.uk/research/asg) at the AI Lab. I am working with [Dr Scott Hosking](https://scotthosking.com/) in the AI Lab and [Dr Hamish Pritchard](https://www.bas.ac.uk/profile/hprit/) in the IDP Team. -->
